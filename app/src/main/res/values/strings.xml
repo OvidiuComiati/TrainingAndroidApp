@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Comiati\'s App</string>
+    <string-array name="sounds">
+        <item>Rainforest ambience</item>
+        <item>Church chime</item>
+        <item>Labrador barking</item>
+        <item>Large waterfall</item>
+        <item>Toddler laugh</item>
+    </string-array>
+</resources>
